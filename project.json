@@ -1,0 +1,97 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "rainbow matrix web wallpaper",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"characters" : 
+			{
+				"order" : 105,
+				"text" : "Extra chars",
+				"type" : "textinput",
+				"value" : ""
+			},
+			"fontfamily" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "Arial",
+						"value" : "arial"
+					},
+					{
+						"label" : "Monospace",
+						"value" : "monospace"
+					},
+					{
+						"label" : "Serif",
+						"value" : "serif"
+					},
+					{
+						"label" : "Sans serif",
+						"value" : "sans-serif"
+					}
+				],
+				"order" : 103,
+				"text" : "Font family",
+				"type" : "combo",
+				"value" : "arial"
+			},
+			"fontsize" : 
+			{
+				"fraction" : true,
+				"max" : 100,
+				"min" : 10,
+				"order" : 102,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "Font size",
+				"type" : "slider",
+				"value" : 12
+			},
+			"rainbow" : 
+			{
+				"order" : 104,
+				"text" : "Rainbow",
+				"type" : "bool",
+				"value" : true
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 1 0"
+			},
+			"space" : 
+			{
+				"fraction" : false,
+				"max" : 100,
+				"min" : 0,
+				"order" : 101,
+				"text" : "Space between columns",
+				"type" : "slider",
+				"value" : 1
+			},
+			"speed" : 
+			{
+				"fraction" : false,
+				"max" : 20,
+				"min" : 1,
+				"order" : 100,
+				"text" : "Speed",
+				"type" : "slider",
+				"value" : 1
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Abstract" ],
+	"title" : "Rainbow Matrix",
+	"type" : "web",
+	"version" : 1,
+	"workshopid" : "2234955662",
+	"workshopurl" : "steam://url/CommunityFilePage/2234955662"
+}
